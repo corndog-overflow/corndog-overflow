@@ -1,4 +1,15 @@
-## Hi there 👋
+## Greetings, traveler.
+
+![shop](https://github.com/user-attachments/assets/3b8621d0-9b8f-4a26-a3db-36d84166275e)
+
+My name is Sadman Kabir. I'm currently finishing up a Bachelors in Computer Engineering with a concentration in Machine Learning and a minor in Systems Engineering at Boston University.
+
+Currently interested in integrated circuit design and fabrication; and optimization for machine learning.
+
+
+
+
+
 
 <!--
 **corndog-overflow/corndog-overflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

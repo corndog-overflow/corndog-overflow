@@ -1,7 +1,5 @@
 ## Greetings, traveler.
 
-![image](https://github.com/user-attachments/assets/2a93a919-eee0-4d24-981b-a27d9891f321)
-
 
 My name is Sadman Kabir. I'm currently finishing up a Bachelors in Computer Engineering with a concentration in Machine Learning and a minor in Systems Engineering at Boston University.
 

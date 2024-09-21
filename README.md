@@ -5,7 +5,7 @@ My name is Sadman Kabir. I'm currently finishing up a Bachelors in Computer Engi
 
 Currently interested in integrated circuit design and fabrication; and optimization for machine learning.
 
-Check out my website: corndog-overflow.github.io for more information and how to reach me.
+Check out my website: [corndog-overflow.github.io](https://corndog-overflow.github.io/) for more information and how to reach me.
 
 
 

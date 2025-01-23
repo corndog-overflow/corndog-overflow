@@ -1,9 +1,9 @@
 ## Greetings, traveler.
 
 
-My name is Sadman Kabir. I'm currently finishing up a Bachelors in Computer Engineering with a concentration in Machine Learning and a minor in Systems Engineering at Boston University.
+My name is Sadman Kabir. I'm currently finishing up a Bachelors in Computer Engineering with a concentration in Machine Learning at Boston University.
 
-Currently interested in integrated circuit design and fabrication; and optimization for machine learning.
+Currently interested in integrated circuit design and fabrication, optimization for machine learning and embedded systems.
 
 Check out my website: [corndog-overflow.github.io](https://corndog-overflow.github.io/) for more information and how to reach me.
 
